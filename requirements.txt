@@ -1,0 +1,16 @@
+spacy
+numpy
+pandas
+jupyterlab
+beautifulsoup4
+wordcloud
+colored
+gitpython
+PyGithub
+requests
+gdown
+pygit2
+gsutil
+upsetplot
+venn
+seaborn
